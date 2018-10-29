@@ -1,7 +1,7 @@
 ## Kleine Einführung zu CSS
 
 
-CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir sowas wie regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
+CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir eigentlich Regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
 Die Struktur dieser Regeln sieht so aus:
 
 ```
@@ -17,7 +17,7 @@ Weil Ein Computer nicht besonders schlau ist müssen wir dabei den Satzbau sehr 
 
 ```
 anna {
-	haare: rot;
+  haare: rot;
 }
 ```
 

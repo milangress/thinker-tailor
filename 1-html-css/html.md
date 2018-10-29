@@ -19,6 +19,9 @@ Das ist ein **Tag** – HTML benutzt tags, die den Inhalt wie ein Sandwich zusam
 <p>This is a paragraph!</p>
 ```
 Der Inhalt beginnt mit einem `<p>`tag und endet mit einem `</p>` tag, damit der Browser weiß wo der Absatz anfängt und aufhört. (dabei steht `<p>` für "Paragraph" also Absatz)
+
+![](assets/html-element.png)
+
 Die Meisten HTML Dokumente beginnen mit einem `<html>` tag und enden mit einem `</html>` tag.
 
 In einem HTML Dokument existieren ein "head" und ein "Body" – im *head* stehen die Informationen für den Browser und im *Body* stehen die Inhalte für die Menschen die die Seite später anschauen.
@@ -77,6 +80,8 @@ Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließen
 <p>Das ist <br /> eine Absatz</p>
 
 ### Attribute
+
+![](assets/html-attribute.png)
 
 Und dann gibt es da noch die Elemente die mehr Informationen enthalten sollen bevor sie darstellt werden können, diese Informationen nennen wir **Attribute**. Attribute haben immer einen Namen und einen Wert:
 
