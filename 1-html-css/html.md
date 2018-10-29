@@ -71,13 +71,13 @@ Vergiss nicht, das deine Tags immer geschlossen werden müssen, sonst denkt der 
 <h1>Das ist eine Überschrift!
 <p>Das ist ein Absatz aber irgendwie auch eine Überschrift</p>
 ```
-Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließend*, wie z.B. `<br />`für einen Zeilenumbruch:
+Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließend*, wie z.B. `<br>` für einen Zeilenumbruch:
 
 ```
-<p>Das ist <br /> eine Absatz</p>
+<p>Das ist <br> eine Absatz</p>
 ```
 *Sieht dann so aus:*
-<p>Das ist <br /> eine Absatz</p>
+<p>Das ist <br> eine Absatz</p>
 
 ### Attribute
 
@@ -109,7 +109,7 @@ Die mächtigste Funktion des Web ist die Möglichkeit zu anderen HTML Dokumenten
 
 Aber das praktische am Web sind auch die ganzen Ressourcen um neues zu Lernen. Das Thema oder einzelne Tags zu Googeln funktioniert meistens sehr gut. Mozilla [HTML Dokumentation](https://developer.mozilla.org/en-US/docs/Web/HTML) enthält auch viele vertiefende Informationen zusammen mit Tutorials.
 
-Als nächstes Lernen wir über Cascading Stylesheets (CSS) und wie damit alles viel besser aussehen kann
+Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 
 <a href="./css.md">Es geht weiter mit CSS</a>
 
@@ -130,3 +130,98 @@ Als nächstes Lernen wir über Cascading Stylesheets (CSS) und wie damit alles v
   </body>
 </html>
 ```
+
+### ein paar HTML Elemente
+
+
+```
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p>This is a paragraph</p>
+
+To break<br>lines<br>in a<br>paragraph,<br>use the br element.
+```
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p>This is a paragraph</p>
+
+To break<br>lines<br>in a<br>paragraph,<br>use the br element.
+
+```
+<em>This is emphasized text</em>
+
+<strong>This is strong text</strong>
+
+<!--This is a comment. Comments are not displayed in the browser-->
+
+<ol>
+  <li>This is an</li>
+  <li>Ordered</li>
+  <li>List</li>
+</ol>
+
+<ul>
+  <li>This is an</li>
+  <li>Unordered</li>
+  <li>List</li>
+</ul>
+```
+
+<em>This is emphasized text</em>
+
+<strong>This is strong text</strong>
+
+<!--This is a comment. Comments are not displayed in the browser-->
+
+<ol>
+  <li>This is an</li>
+  <li>Ordered</li>
+  <li>List</li>
+</ol>
+
+<ul>
+  <li>This is an</li>
+  <li>Unordered</li>
+  <li>List</li>
+</ul>
+
+```
+The <code>code element</code> example
+
+The <em>em element</em> example
+
+The <mark>mark element</mark> example
+
+The <small>small element</small> example
+
+The <strong>strong element</strong> example
+
+The <sub>sub element</sub> example
+ 
+The <sup>sup element</sup> example
+```
+
+The <code>code element</code> example
+
+ The <em>em element</em> example
+
+The <mark>mark element</mark> example
+
+The <small>small element</small> example
+
+The <strong>strong element</strong> example
+
+The <sub>sub element</sub> example
+ 
+The <sup>sup element</sup> example
