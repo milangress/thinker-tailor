@@ -10,7 +10,8 @@
 - Schulterblick?
 - Funktioniert Thimble/Brackets/Firefox?
 - Funktioniert Firefox dev tools? -> [Raster Systeme](/examples/raster-systeme/index.html)
-- -> Layout mit CSS!
+
+- -> **[Download der Übungen](https://github.com/milangress/thinker-tailor/archive/exercise.zip)**
 
 
 ---
