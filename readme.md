@@ -11,6 +11,7 @@
 - Funktioniert Thimble/Brackets/Firefox?
 - Funktioniert Firefox dev tools? -> [Raster Systeme](/examples/raster-systeme/index.html)
 - -> Layout mit CSS!
+- -> -> [Layout!](/exercise/3-basic-grid-depth/index.html)
 
 
 ---
