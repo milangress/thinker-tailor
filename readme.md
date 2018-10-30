@@ -15,6 +15,10 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
     - Davon:
     - Kapitel 2 CSS Core
     - Kapitel 4 Layout
+    
+- Video Tutorial zu CSS Grids von Rachel Andrews: [Link](https://gridbyexample.com/video/)
+    
+- HTML mit Inhalten erstellen
 
 ### Workshop 2
 - Schulterblick?
