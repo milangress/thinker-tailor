@@ -8,7 +8,7 @@ body {
 
 .container {
   background: #ff4f0f;
-  padding: 0.65rem;
+  padding: 50px;
   display: grid;
   margin: auto;
   grid-template-columns: repeat(4, 110px);
