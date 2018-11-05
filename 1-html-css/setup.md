@@ -1,3 +1,8 @@
+---
+title: "Setup"
+layout: "default"
+---
+
 # Erster set-up
 1. Wir benötigen einen Texteditor um HTML und CSS Dateien zu benutzen:
   - [brackets.io](http://brackets.io)

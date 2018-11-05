@@ -1,3 +1,8 @@
+---
+title: "HTML 101"
+layout: "default"
+---
+
 ## Kleine Einführung zu HTML
 
 HTML steht für HyperText Markup Language. Mit HTML können wir Inhalte definieren. Das Resultat von HTML ist nicht schön - die meisten browser benutzen standardmäßig Times New Roman als Schrift und blau unterstrichene links - aber die Möglichkeit Inhalte zu einer Seite hinzuzufügen die jeder auf der Welt sehen kann ist sehr mächtig! Nachdem du die Grundlagen von HTML verstanden hast, kannst du mit CSS experimentieren um die Gestaltung zu verändern. 

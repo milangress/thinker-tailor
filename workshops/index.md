@@ -1,3 +1,8 @@
+---
+title: "Workshop"
+layout: "default"
+---
+
 ### Workshop 1
 - ~~[Initial Setup](/thinker-tailor/1-html-css/setup.md)~~
 - [PDF HTML Einführung](/thinker-tailor/workshops/HTML-intro.pdf)
