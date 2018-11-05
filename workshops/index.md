@@ -22,12 +22,14 @@ layout: "default"
 
 - -> **[Download der Übungen](https://github.com/milangress/thinker-tailor/archive/exercise.zip)**
 
+
 - Thimble:
 - [2-basic-grid](https://thimbleprojects.org/gress/572262)
 - [3-basic-grid-depth](https://thimbleprojects.org/gress/572263)
 - [4-basic-grid-collection](https://thimbleprojects.org/gress/572264)
 - [5-grid-implicid](https://thimbleprojects.org/gress/572266)
 - [5-grid-implicid-text](https://thimbleprojects.org/gress/572267)
+
 
 
 - Dokumentation aller CSS Grid funktionen: [MDN Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
