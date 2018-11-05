@@ -1,5 +1,6 @@
 ---
 title: "Ressourcen"
+layout: "default"
 ---
 
 ### Tutorials
