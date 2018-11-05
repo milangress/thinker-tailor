@@ -116,7 +116,7 @@ Aber das praktische am Web sind auch die ganzen Ressourcen um neues zu Lernen. D
 
 Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 
-<a href="./css.md">Es geht weiter mit CSS</a>
+<a href="./css.html">Es geht weiter mit CSS</a>
 
 # Anhang
 ### Nützliches HTML Grundgerüst
