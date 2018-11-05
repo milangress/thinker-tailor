@@ -13,7 +13,13 @@
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
-      <a href="{{ "/" | absolute_url | "ressourcen" }}">Ressourcen</a></li>
+      <nav>
+          {% for item in site.data.navigation %}
+            <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+              {{ item.name }}
+            </a>
+          {% endfor %}
+        </nav>
 
       {{ content }}
 
