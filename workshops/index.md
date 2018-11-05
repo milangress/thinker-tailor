@@ -1,7 +1,8 @@
 ### Workshop 1
-- [Initial Setup](/1-html-css/setup.md)
-- [101 HTML](/1-html-css/html.md) (wiederholung)
-- [101 CSS](/1-html-css/css.md) (wiederholung)
+- ~~[Initial Setup](/thinker-tailor/1-html-css/setup.md)~~
+- [PDF HTML Einführung](/thinker-tailor/workshops/HTML-intro.pdf)
+- [PDF CSS Einführung](/thinker-tailor/workshops/CSS-intro.pdf)
+
 
 #### Hausaufgabe
 CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy oder dem Videotutorial auf Lynda:
@@ -19,8 +20,11 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 
 ### Workshop 2
 - Schulterblick?
+- [101 HTML](/thinker-tailor/1-html-css/html.md) (wiederholung)
+- [101 CSS](/thinker-tailor/1-html-css/css.md) (wiederholung)
 - Funktioniert Thimble/Brackets/Firefox?
 - Funktioniert Firefox dev tools? -> [Raster Systeme](/examples/raster-systeme/index.html)
+
 
 - -> **[Download der Übungen](https://github.com/milangress/thinker-tailor/archive/exercise.zip)**
 
