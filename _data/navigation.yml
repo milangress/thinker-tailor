@@ -1,4 +1,6 @@
 - name: Home
   link: /
+- name: Workshops
+  link: /workshops/
 - name: About
   link: /ressourcen/
