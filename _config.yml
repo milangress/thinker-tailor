@@ -1,3 +1,4 @@
 theme: jekyll-theme-primer
 title: Thinker Tailor
 description: Kleine Einführung in HTML und CSS
+markdown: kramdown
