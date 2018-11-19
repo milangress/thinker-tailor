@@ -1,3 +1,8 @@
+---
+title: "Thinker"
+layout: "doc"
+---
+
 # CSS Extended
 
 - [CSS: Units](#css-units)
