@@ -84,7 +84,7 @@ Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließen
 *Sieht dann so aus:*
 <p>Das ist <br> eine Absatz</p>
 
-<iframe height='300' scrolling='no' title='HTML: p' src='//codepen.io/macky/embed/KrXJYx/?height=300&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
+<iframe height='100' scrolling='no' title='HTML: p' src='//codepen.io/macky/embed/KrXJYx/?height=300&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
 ### Attribute
 
