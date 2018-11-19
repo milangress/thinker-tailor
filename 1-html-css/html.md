@@ -72,17 +72,12 @@ Eine anderer weg deinen Code Lesbarer zu machen ist mit Kommentaren:
 ---
 Vergiss nicht, das deine Tags immer geschlossen werden müssen, sonst denkt der Browser deine Seite besteht nur aus einem einzigen tag:
 
-```
-<h1>Das ist eine Überschrift!
-<p>Das ist ein Absatz aber irgendwie auch eine Überschrift</p>
-```
+<iframe height='300' scrolling='no' title='HTML: close tags' src='//codepen.io/macky/embed/RqLdxx/?height=300&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
+</iframe>
+
+
 Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließend*, wie z.B. `<br>` für einen Zeilenumbruch:
 
-```
-<p>Das ist <br> eine Absatz</p>
-```
-*Sieht dann so aus:*
-<p>Das ist <br> eine Absatz</p>
 
 <iframe height='180' scrolling='no' title='HTML: p' src='//codepen.io/macky/embed/KrXJYx/?height=300&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
