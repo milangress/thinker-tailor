@@ -48,8 +48,9 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 - Layoutentwürfe besprechen
 - Schulterblick: Wie Lief das Tutorial?
 - Fragen/Probleme?
-- CSS Grid verstanden?
-- HTML Verstanden?
+    - CSS Grid verstanden?
+    - HTML Verstanden?
+
 
 
 - Mobile Ansicht der "Bühne"
