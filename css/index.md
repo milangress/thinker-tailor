@@ -360,6 +360,28 @@ Flexbox Macht es besonders einfach Elemente [Horizontal und Vertikal](https://ph
 
 ## CSS: Responsive
 
+### Responsive design
+
+Wir benutzen Heute ein ganzes Spektrum an verschiedenen Geräten um das Internet zu benutzen: von Handys und Tablets bis hin zu Gigantischen 5k Monitoren. Deswegen müssen sich auch unsere Webseiten anpassen und auf das Gerät reagieren (also responsive sein) um überall gut auszusehen. 
+
+### Media queries
+
+CSS erlaubt uns informationen zu erhalten über das Medium auf dem es angezeigt wird zu erhalten. Wie die Auflösung, Pixel denssity oder Ausrichtung. Mit sogenanten Media Queries können wir abhängig von unserem Output Medium gestalten.
+
+Wir könnten also z.B. unsere Schriftgröße auf Handys etwas Größer machen oder das Layout etwas einfacher gestalten. Oder andersrum auf größeren Bildschirmen z.B. zusätzliche informationen darstellen oder mehr Weißraum lassen.
+
+Media Queries beginnen mit `@media`, gefolgt von den angaben nachdenen es auswählen soll. Wenn die Angaben zutreffen wird der gesamte CSS code zwischen den geschweiften klammern angewandt:
+
+```
+/* Für jeden Bildschirm kleiner als 600px
+ wird das .sidebar Element versteckt */
+@media (max-width: 600px) {
+    .sidebar {
+        display: none;
+    }
+}
+```
+
 
 ### Beispiel
 
@@ -367,3 +389,7 @@ Flexbox Macht es besonders einfach Elemente [Horizontal und Vertikal](https://ph
 
 <iframe height='425' scrolling='no' title='CSS: Responsive' src='//codepen.io/macky/embed/dQVxQw/?height=425&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
+
+### Additional resources
+
+[vollständige Liste der Media Features](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
