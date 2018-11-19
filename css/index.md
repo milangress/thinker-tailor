@@ -5,6 +5,11 @@ layout: "doc"
 
 # CSS Basics
 
+CSS is a language to describe the presentation of an HTML document. if HTML is for describing the structure of content, CSS is for describing the look of the elements on the page. you can think of it as something similar to character / paragraph / object styles in InDesign:
+CSS ist die sprach mit der Präsentation des HTML dokuments beschrieben wird. Wenn HTML die Struktur des Inhaltes definiert, benutzen wir CSS um das aussehen der Elemente auf der Seite zu beschreiben. CSS ist vergleichbar mit dem Absatz / Zeichen / Objekt formaten in inDesign:
+
+![](img/absatzformate.png)
+
 ## Der Syntax
 
 CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir eigentlich Regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
