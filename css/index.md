@@ -282,10 +282,29 @@ text-transform
 
 ## CSS: Effects
 
+### Opacity
+
+the opacity property is used to make elements semi-transparent. it can take a value between 0 and 1 (0 being fully transparent, and 1 being fully opaque).
+
+<iframe height='300' scrolling='no' title='CSS: Opacity' src='//codepen.io/macky/embed/yQPNjE/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
 ### Drop shadows
+
+in CSS drop shadows are created with the box-shadow and text-shadow properties.
+
 
 <iframe height='300' scrolling='no' title='CSS: Box Shadow' src='//codepen.io/macky/embed/BGwXOy/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
+
+### Filter
+
+using the filter property, you can apply one (or more) photoshop-like filters to an element.
+
+<iframe height='300' scrolling='no' title='CSS: Filter' src='//codepen.io/macky/embed/VVrLGv/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
+[CSS Tricks über Filter](https://css-tricks.com/almanac/properties/f/filter/)
 
 ## CSS: Responsive
 

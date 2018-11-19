@@ -17,8 +17,10 @@
             </a>
           {% endfor %}
         </nav>
-        <div class="toc" style="width: 280px; position: fixed; left: 0; top: 0; padding: 2rem;">
+        <div class="toc-wrapper" style="width: 280px; position: fixed; left: 0; top: 0; bottom: 0; padding: 2rem; overflow-y: auto;">
+           <div>
             {% include toc.html html=content h_min=2 %}
+            </div>
         </div>
       {{ content }}
 
