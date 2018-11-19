@@ -4,6 +4,96 @@ layout: "doc"
 ---
 # CSS Basics
 
+## CSS Basics: Syntax
+
+
+CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir eigentlich Regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
+Die Struktur dieser Regeln sieht so aus:
+
+```
+Selektor {
+  Eigenschaft: wert;
+  andere-eigenschaft: anderer-wert;
+}
+```
+
+Der *Selektor* definiert welches Element wir verändern möchten und danach kommt eine Liste mit den Eigenschaften und dessen werten.
+
+Weil Ein Computer nicht besonders schlau ist müssen wir dabei den Satzbau sehr genau befolgen. Um dem Computer zu sagen das Anna rote Haare haben soll würden wir also schreiben:
+
+```
+anna {
+  haare: rot;
+}
+```
+
+Aber wir wollen ja keine Menschen stylen sondern HTML tags. Wenn wir also die Hintergrundfarbe unsere Seite verändern wollen schreiben wir:
+
+```
+body {
+  background-color: magenta;
+}
+```
+
+In diesem fall wählen wir alle `<Body>` Elemente aus und setzten die Eigenschaft `background-color` auf „magenta“. Wir können auch mehr Eigenschaften hinzufügen:
+
+```
+body {
+  background-color: magenta;
+  font-family: Helvetica;
+}
+```
+
+Jetzt wird der ganze Text zwischen `<body>` und `</body>` in Helvetica angezeigt.
+
+Wie in HTML können wir Kommentare schreiben um unseren Code Lesbarer zu gestalten:
+
+```
+/* Diese CSS Regel verändert die Schriftgröße. 
+Dabei ist "rem" eine Einheit die abhängt von der   
+grundsätzlichen Schriftgröße. Wenn wir die noch nicht   
+verändert haben bedeutet das normalerweise 16px   
+(px bedeutet Pixel). 2rem währen dann also 2 x 16px = 32px */
+body {
+  background-color: magenta;
+  font-size: 2rem;
+}
+```
+
+Es gibt noch viele andere Selektoren neben HTML tags wie `<body>`. Du kannst auch Elemente mit einer bestimmten klasse oder id auswählen. Wenn wir also nur ein `<p>` Element zentrieren wollen können wir zuerst eine Klasse zuweisen:
+
+```
+<p class="wichtiger-text">Dieser Text wird Zentriert</p>
+```
+
+Jetzt kann ich dieses Element auswählen damit es nur diese Klasse verändert:
+
+```
+.wichtiger-text {
+  text-align: center;
+}
+```
+
+Wichtig:
+id Selektoren werden nach einem `#` geschrieben während Class Selektoren nach einem Punkt geschrieben werden – `.`
+
+### Basics: CSS Datei Benutzen
+
+CSS und HTML zu trennen macht es einfacher zu verstehen. Aber du musst daran denken dem Browser zu sagen wo die CSS Datei liegt.
+Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
+
+```
+<link rel="stylesheet" href="style.css" />
+```
+
+
+** Jetzt kennst du die Grundlagen zu CSS **
+
+[MDN's CSS Dokumentation](https://developer.mozilla.org/en-US/docs/Web/CSS) enthält eine umfassende Auflistung aller Eigenschaften und Werte.
+Die Tutorials von Mozilla zu den [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) sind ein guter Einstig.
+
+---
+
 ## CSS Grid
 
 Mit CSS Grids können wir Webseiten direkt mit CSS layouten und Elemente unabhänig von ihrer Reinfolge im HTML so plaziren wie wir möcheten. Das bedeutet wir können flexible Spalten und Reihen (grid rows und grid columns) anlegen und unsere Webseiten-Elemente dann komplett frei in diesem Grid platzieren.
@@ -24,31 +114,31 @@ Ein Grid item ist jedes Element im Grid, das direkt im Container sitzt (also nic
 
 Es gibt zwei unterschiedliche Grid lines. Die vertikalen Grid-Linien werden „columns“ genannt, die horizontalen „rows“.
 
-![](/img/grids1.png)
+![](img/grids1.png)
 
 ** Grid cell **
 
 Grid cell werden alle einzelnen Zellen des Grids genannt.
 
-![](/img/grids2.png)
+![](img/grids2.png)
 
 ** Grid area **
 
 Mehrere Zellen zusammengenommen bilden eine Grid area.
 
-![](/img/grids3.png)
+![](img/grids3.png)
 
 ** Grid track **
 
 Grid tracks werden alle Spalten und Reihen des Grids genannt, also der Bereich zwischen zwei Column lines oder zwei Row lines.
 
-![](/img/grids4.png)
+![](img/grids4.png)
 
 ** Grid gap **
 
 Die Zwischenräume zwischen den Grid rows oder columns sind die Grid gaps (sie können z.B. einen festen Pixelwert von 15px haben). Diese Spalten werden auch auch gutter genannt. Die CSS-Werte sind grid-column-gap und grid-row-gap. Wichtig ist sich zu merken, dass die Zwischenräume nur innerhalb des Grids angelegt werden und nicht an den äußeren Grid lines (bzw. am Rand des Containers).
 
-![](/img/grids5.png)
+![](img/grids5.png)
 
 #### Der Wert "fr"
 
@@ -63,7 +153,7 @@ grid-template-columns: 3fr 1fr 1fr;
 
 Das würde in folgendes Grid-Layout resultieren: 
 
-![](/img/grids6.png)
+![](img/grids6.png)
 
 ** Grid template rows **
 
