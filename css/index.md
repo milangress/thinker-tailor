@@ -113,39 +113,39 @@ Mit CSS Grids können wir Webseiten direkt mit CSS layouten und Elemente unabhä
 
 Um CSS Grid anzuwenden, benötigst du ein paar neue Begriffe, die ich hier einmal in einer kleinen Übersicht zusammen gefasst habe.
 
-** Grid container **
+**Grid container**
 
 Der Grid Container ist der äußerste Container, in dem das Grid gebaut wird. Die CSS-Klasse für dieses HTML-Element muss display: grid heißen.
 
-** Grid item **
+**Grid item**
 
 Ein Grid item ist jedes Element im Grid, das direkt im Container sitzt (also nicht die Child-Elemente innerhalb von Grid items).
 
-** Grid line **
+### Grid line
 
 Es gibt zwei unterschiedliche Grid lines. Die vertikalen Grid-Linien werden „columns“ genannt, die horizontalen „rows“.
 
 ![](img/grids1.png)
 
-** Grid cell **
+### Grid cell
 
 Grid cell werden alle einzelnen Zellen des Grids genannt.
 
 ![](img/grids2.png)
 
-** Grid area **
+### Grid area
 
 Mehrere Zellen zusammengenommen bilden eine Grid area.
 
 ![](img/grids3.png)
 
-** Grid track **
+### Grid track
 
 Grid tracks werden alle Spalten und Reihen des Grids genannt, also der Bereich zwischen zwei Column lines oder zwei Row lines.
 
 ![](img/grids4.png)
 
-** Grid gap **
+### Grid gap
 
 Die Zwischenräume zwischen den Grid rows oder columns sind die Grid gaps (sie können z.B. einen festen Pixelwert von 15px haben). Diese Spalten werden auch auch gutter genannt. Die CSS-Werte sind grid-column-gap und grid-row-gap. Wichtig ist sich zu merken, dass die Zwischenräume nur innerhalb des Grids angelegt werden und nicht an den äußeren Grid lines (bzw. am Rand des Containers).
 
@@ -166,7 +166,7 @@ Das würde in folgendes Grid-Layout resultieren:
 
 ![](img/grids6.png)
 
-** Grid template rows **
+### Grid template rows
 
 „auto“ ist hier standard und bedeutet, dass der Inhalt die Höhe der grid-row bestimmt. Du kannst aber auch feste Pixel-Maße oder einen Prozentwert angeben.
 
@@ -197,7 +197,7 @@ mit `align-self` können wir Elemente die kleiner wie unser Grid sind Vertical v
 
 ## Beispiele
 
-** Tiefe erzeugen mit z-index **
+### Tiefe erzeugen mit z-index
 
 <iframe height='414' scrolling='no' title='CSS: Grid depth' src='//codepen.io/macky/embed/jQarad/?height=414&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
 </iframe>
@@ -205,14 +205,14 @@ mit `align-self` können wir Elemente die kleiner wie unser Grid sind Vertical v
 [auf Thimble bearbeiten](https://thimbleprojects.org/gress/572263)
 <br>
 
-** Responsive Grid **
+### Responsive Grid
 
 <iframe height='399' scrolling='no' title='CSS: Grid implicid' src='//codepen.io/macky/embed/zMPBjr/?height=399&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
 </iframe>
 
 [auf Thimble bearbeiten](https://thimbleprojects.org/gress/572266)
 
-** Responsive Grid 2 **
+### Responsive Grid 2
 
 <iframe height='419' scrolling='no' title='CSS: Grid Implicid Text' src='//codepen.io/macky/embed/MzOjYK/?height=419&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
