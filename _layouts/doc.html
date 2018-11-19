@@ -7,6 +7,19 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+        .toc-wrapper>ul {
+            list-style-type: none;
+            padding-left: 0; 
+        }
+        .toc-wrapper>ul>li {
+            margin-top: 1rem;
+            border-top: 2px solid gold;
+        }
+        .toc-wrapper>ul>li>ul {
+            padding-left: 0;  
+        }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body" style="margin-right: 20px;">
@@ -18,9 +31,7 @@
           {% endfor %}
         </nav>
         <div class="toc-wrapper" style="width: 280px; position: fixed; left: 0; top: 0; bottom: 0; padding: 2rem; overflow-y: auto;">
-           <div>
-            {% include toc.html html=content h_min=2 item_class=toc-%level% %}
-            </div>
+            {% include toc.html html=content h_min=2 item_class=toc %}
         </div>
       {{ content }}
 
