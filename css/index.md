@@ -97,11 +97,11 @@ Die Tutorials von Mozilla zu den [CSS Basics](https://developer.mozilla.org/en-U
 
 ---
 
-## CSS Grid
+# CSS Grid
 
 Mit CSS Grids können wir Webseiten direkt mit CSS layouten und Elemente unabhänig von ihrer Reinfolge im HTML so plaziren wie wir möcheten. Das bedeutet wir können flexible Spalten und Reihen (grid rows und grid columns) anlegen und unsere Webseiten-Elemente dann komplett frei in diesem Grid platzieren.
 
-### Grundlagen
+## Grundlagen: Begriffe
 
 Um CSS Grid anzuwenden, benötigst du ein paar neue Begriffe, die ich hier einmal in einer kleinen Übersicht zusammen gefasst habe.
 
@@ -143,7 +143,7 @@ Die Zwischenräume zwischen den Grid rows oder columns sind die Grid gaps (sie k
 
 ![](img/grids5.png)
 
-### Der Wert "fr"
+## Der Wert "fr"
 
 fr (steht für fraction) ist ein neuer Wert, der für CSS Grid eingeführt wurde. grid-container: 1fr bedeutet, das eine Fraktion des zur Verfügung stehenden Platzes genutzt wird.
 Grid template column
