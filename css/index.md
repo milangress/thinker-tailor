@@ -82,6 +82,7 @@ Hier unten kannst du dir den `HTML` und den `CSS` Code dazu anschauen:
 <iframe height='137' scrolling='no' title='CSS: Selector' src='//codepen.io/macky/embed/BGmNLL/?height=137&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
+
 Wichtig:
 id Selektoren werden nach einem `#` geschrieben während Class Selektoren nach einem Punkt geschrieben werden – `.`
 
@@ -92,14 +93,17 @@ Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
 
 ```
 <link rel="stylesheet" href="style.css" />
+
 ```
 
-** Jetzt kennst du die Grundlagen zu CSS **
+
+
+Jetzt kennst du die Grundlagen zu CSS:
 
 [MDN's CSS Dokumentation](https://developer.mozilla.org/en-US/docs/Web/CSS) enthält eine umfassende Auflistung aller Eigenschaften und Werte.
 Die Tutorials von Mozilla zu den [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) sind ein guter Einstig.
 
----
+----
 
 # CSS Grid
 
