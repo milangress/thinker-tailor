@@ -1,9 +1,9 @@
 ---
-title: "HTML 101"
-layout: "default"
+title: "HTML Einführung"
+layout: "doc"
 ---
 
-## Kleine Einführung zu HTML
+# Kleine Einführung zu HTML
 
 HTML steht für HyperText Markup Language. Mit HTML können wir Inhalte definieren. Das Resultat von HTML ist nicht schön - die meisten browser benutzen standardmäßig Times New Roman als Schrift und blau unterstrichene links - aber die Möglichkeit Inhalte zu einer Seite hinzuzufügen die jeder auf der Welt sehen kann ist sehr mächtig! Nachdem du die Grundlagen von HTML verstanden hast, kannst du mit CSS experimentieren um die Gestaltung zu verändern. 
 
@@ -81,7 +81,7 @@ Manche Elemente haben keinen abschließenden Tag sondern sind *selbst-schließen
 
 <iframe height='180' scrolling='no' title='HTML: p' src='//codepen.io/macky/embed/KrXJYx/?height=300&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
-### Attribute
+## Attribute
 
 ![](assets/html-attribute.png)
 
@@ -107,7 +107,7 @@ Die mächtigste Funktion des Web ist die Möglichkeit zu anderen HTML Dokumenten
 ```
 
 
-## Jetzt kennst du die Grundlagen zu HTML
+## Additional resources
 
 Aber das praktische am Web sind auch die ganzen Ressourcen um neues zu Lernen. Das Thema oder einzelne Tags zu Googeln funktioniert meistens sehr gut. Mozilla [HTML Dokumentation](https://developer.mozilla.org/en-US/docs/Web/HTML) enthält auch viele vertiefende Informationen zusammen mit Tutorials.
 
@@ -116,7 +116,7 @@ Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 <a href="./css.html">Es geht weiter mit CSS</a>
 
 # Anhang
-### Nützliches HTML Grundgerüst
+## Nützliches HTML Grundgerüst
 
 ```
 <!doctype html>
@@ -133,7 +133,7 @@ Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 </html>
 ```
 
-### ein paar HTML Elemente
+## ein paar HTML Elemente
 
 
 
