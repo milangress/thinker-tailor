@@ -2,5 +2,9 @@
   link: /
 - name: Workshops
   link: /workshops/
+- name: HTML
+  link: /html/
+- name: CSS
+  link: /css/
 - name: Ressourcen
   link: /ressourcen/
