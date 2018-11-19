@@ -184,6 +184,12 @@ grid-template-rows: 120px 25% auto;
 
 [auf Thimble bearbeiten](https://thimbleprojects.org/gress/572266)
 
+** Responsive Grid 2 **
+<iframe height='419' scrolling='no' title='CSS: Grid Implicid Text' src='//codepen.io/macky/embed/MzOjYK/?height=419&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
+[auf Thimble bearbeiten](https://thimbleprojects.org/gress/572267)
+
 ## Additional resources
 
 [unter Ressourcen -> Grid](ressourcen/#css-grid)
