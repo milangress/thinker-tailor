@@ -2,10 +2,10 @@
 title: "Thinker"
 layout: "doc"
 ---
-# CSS Basics
 
-## CSS Basics: Syntax
+## CSS Basics
 
+### Der Syntax
 
 CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir eigentlich Regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
 Die Struktur dieser Regeln sieht so aus:
@@ -60,6 +60,8 @@ body {
 }
 ```
 
+### Classe Selektieren
+
 Es gibt noch viele andere Selektoren neben HTML tags wie `<body>`. Du kannst auch Elemente mit einer bestimmten klasse oder id auswählen. Wenn wir also nur ein `<p>` Element zentrieren wollen können wir zuerst eine Klasse zuweisen:
 
 ```
@@ -74,10 +76,15 @@ Jetzt kann ich dieses Element auswählen damit es nur diese Klasse verändert:
 }
 ```
 
+Hier unten kannst du dir den `HTML` und den `CSS` Code dazu anschauen:
+
+<iframe height='137' scrolling='no' title='CSS: Selector' src='//codepen.io/macky/embed/BGmNLL/?height=137&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
 Wichtig:
 id Selektoren werden nach einem `#` geschrieben während Class Selektoren nach einem Punkt geschrieben werden – `.`
 
-### Basics: CSS Datei Benutzen
+#### .css Datei
 
 CSS und HTML zu trennen macht es einfacher zu verstehen. Aber du musst daran denken dem Browser zu sagen wo die CSS Datei liegt.
 Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
@@ -98,7 +105,7 @@ Die Tutorials von Mozilla zu den [CSS Basics](https://developer.mozilla.org/en-U
 
 Mit CSS Grids können wir Webseiten direkt mit CSS layouten und Elemente unabhänig von ihrer Reinfolge im HTML so plaziren wie wir möcheten. Das bedeutet wir können flexible Spalten und Reihen (grid rows und grid columns) anlegen und unsere Webseiten-Elemente dann komplett frei in diesem Grid platzieren.
 
-### CSS Grid: Wichtige Begriffe
+### Grundlagen
 
 Um CSS Grid anzuwenden, benötigst du ein paar neue Begriffe, die ich hier einmal in einer kleinen Übersicht zusammen gefasst habe.
 
