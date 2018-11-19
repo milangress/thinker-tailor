@@ -38,19 +38,27 @@ layout: "default"
 CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy oder dem Videotutorial auf Lynda:
 - [Codecademy CSS](https://www.codecademy.com/learn/learn-css)
     - Alle Kapitel
-
 - [Lynda CSS](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html?org=hs-mainz.de)
-    - Davon: Kapitel 2 "CSS Core" & Kapitel 4 "Layout"
-    
+    - Davon: Kapitel 2 "CSS Core" & Kapitel 4 "Layout" 
 - Video Tutorial zu CSS Grids von Rachel Andrews: [Link](https://gridbyexample.com/video/)
-    
-- HTML mit realen Inhalten aus dem "Design in Mainz" Blog erstellen
+- HTML mit realen Inhalten aus dem [Design in Mainz Blog](http://news.designinmainz.hs-mainz.de/) erstellen
 
 ## Workshop 3 (20.11.2018)
 
+- Layoutentwürfe besprechen
 - Schulterblick: Wie Lief das Tutorial?
 - Fragen/Probleme?
+- CSS Grid verstanden?
+- HTML Verstanden?
 
 
-
+- Mobile Ansicht der "Bühne"
+- Warum überhaupt Responsive?
 - -> **[CSS: Responsive](/thinker-tailor/css/#css-responsive)**
+- [https://rachelandrew.co.uk/css/cheatsheets/box-alignment](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+- CSS Grid & Responsive Layout = Magic
+- -> **[Magic in Thimble anschauen](https://thimbleprojects.org/gress/589014)**
+
+
+- Mit Echten Inhalten wird **Alles** Komplizierter
+- -> **[Thimble Design in Mainz](https://thimbleprojects.org/gress/588992/)**
