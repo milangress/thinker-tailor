@@ -170,7 +170,7 @@ grid-template-rows: 120px 25% auto;
 
 ## Beispiele
 
-** Tiefe erzeugen mit `z-index` **
+** Tiefe erzeugen mit z-index **
 
 <iframe height='414' scrolling='no' title='CSS: Grid depth' src='//codepen.io/macky/embed/jQarad/?height=414&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
 </iframe>
@@ -179,12 +179,14 @@ grid-template-rows: 120px 25% auto;
 <br>
 
 ** Responsive Grid **
+
 <iframe height='399' scrolling='no' title='CSS: Grid implicid' src='//codepen.io/macky/embed/zMPBjr/?height=399&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
 </iframe>
 
 [auf Thimble bearbeiten](https://thimbleprojects.org/gress/572266)
 
 ** Responsive Grid 2 **
+
 <iframe height='419' scrolling='no' title='CSS: Grid Implicid Text' src='//codepen.io/macky/embed/MzOjYK/?height=419&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
