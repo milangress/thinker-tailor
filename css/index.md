@@ -3,9 +3,9 @@ title: "CSS Einführung"
 layout: "doc"
 ---
 
-## CSS Basics
+# CSS Basics
 
-### Der Syntax
+## Der Syntax
 
 CSS steht für *Cascading Style Sheets*, mit der wir Elemente auf unserer Seite *Stylen* können. In CSS schreiben wir eigentlich Regeln nach denen sich der Browser richten muss um unsere Seite Anzuzeigen. 
 Die Struktur dieser Regeln sieht so aus:
@@ -57,7 +57,7 @@ body {
 }
 ```
 
-### Classe Selektieren
+## Classe Selektieren
 
 Es gibt noch viele andere Selektoren neben HTML tags wie `<body>`. Du kannst auch Elemente mit einer bestimmten klasse oder id auswählen. Wenn wir also nur ein `<p>` Element zentrieren wollen können wir zuerst eine Klasse zuweisen:
 
@@ -81,7 +81,7 @@ Hier unten kannst du dir den `HTML` und den `CSS` Code dazu anschauen:
 Wichtig:
 id Selektoren werden nach einem `#` geschrieben während Class Selektoren nach einem Punkt geschrieben werden – `.`
 
-### .css Datei
+## .css Datei
 
 CSS und HTML zu trennen macht es einfacher zu verstehen. Aber du musst daran denken dem Browser zu sagen wo die CSS Datei liegt.
 Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
@@ -143,7 +143,7 @@ Die Zwischenräume zwischen den Grid rows oder columns sind die Grid gaps (sie k
 
 ![](img/grids5.png)
 
-#### Der Wert "fr"
+### Der Wert "fr"
 
 fr (steht für fraction) ist ein neuer Wert, der für CSS Grid eingeführt wurde. grid-container: 1fr bedeutet, das eine Fraktion des zur Verfügung stehenden Platzes genutzt wird.
 Grid template column
