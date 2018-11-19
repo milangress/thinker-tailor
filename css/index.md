@@ -354,6 +354,8 @@ Flexbox Macht es besonders einfach Elemente [Horizontal und Vertikal](https://ph
 <iframe height='300' scrolling='no' title='CSS: Flexbox power' src='//codepen.io/macky/embed/ZmaQNX/?height=300&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
+[auf Thimble bearbeiten](https://thimbleprojects.org/gress/588884/)
+
 ### Additional resources
 
 - [Flexbox Froggy](http://flexboxfroggy.com/)
@@ -393,6 +395,8 @@ Media Queries beginnen mit `@media`, gefolgt von den angaben nachdenen es auswä
 
 <iframe height='425' scrolling='no' title='CSS: Responsive' src='//codepen.io/macky/embed/dQVxQw/?height=425&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
+
+[auf Thimble bearbeiten](https://thimbleprojects.org/gress/588890/)
 
 ### Additional resources
 
