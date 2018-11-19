@@ -47,3 +47,5 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 - HTML mit Inhalten erstellen
 
 ## Workshop 3 (20.11.2018)
+
+- -> **[CSS Grids Einführung 2](/thinker-tailor/3-css/css.html)**
