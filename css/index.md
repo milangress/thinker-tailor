@@ -172,6 +172,29 @@ Das würde in folgendes Grid-Layout resultieren:
 
 grid-template-rows: 120px 25% auto;
 
+## Grid: Box alignment
+
+### justify-self
+
+mit `justify-self` können wir Elemente die kleiner wie unser Grid sind Horizontal verteilen
+
+[Beispiel Vollbild](https://codepen.io/macky/full/rQYWgR/)
+
+<iframe height='400' scrolling='no' title='Grid by Example 27: justify-self' src='//codepen.io/macky/embed/rQYWgR/?height=791&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
+### align-self
+
+mit `align-self` können wir Elemente die kleiner wie unser Grid sind Vertical verteilen
+
+
+[Beispiel Vollbild](https://codepen.io/macky/full/eQegYX/)
+
+<iframe height='300' scrolling='no' title='Grid by Example 26: align-self' src='//codepen.io/macky/embed/eQegYX/?height=300&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
+
+
 ## Beispiele
 
 ** Tiefe erzeugen mit z-index **
@@ -335,28 +358,30 @@ these are the most important typography-related CSS properties:
 
 ### Opacity
 
-the opacity property is used to make elements semi-transparent. it can take a value between 0 and 1 (0 being fully transparent, and 1 being fully opaque).
+
+die `opacity` property verändert die Deckkraft von Elementen. Dabei steht `0` für Transparent und `1` für voll deckend.
 
 <iframe height='300' scrolling='no' title='CSS: Opacity' src='//codepen.io/macky/embed/yQPNjE/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
 ### Drop shadows
 
-in CSS drop shadows are created with the box-shadow and text-shadow properties.
-
+in CSS werden Schatten mit `box-shadow` und `text-shadow` gemacht.
 
 <iframe height='300' scrolling='no' title='CSS: Box Shadow' src='//codepen.io/macky/embed/BGwXOy/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
 ### Filter
 
-using the filter property, you can apply one (or more) photoshop-like filters to an element.
+mit der `filter` property, kannst du einen (oder mehrere) Photoshopartige Filter auf ein Element anwenden.
 
 <iframe height='300' scrolling='no' title='CSS: Filter' src='//codepen.io/macky/embed/VVrLGv/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
 ### Additional resources
 
+[CSS3 Box Shadow Generator](https://css3gen.com/box-shadow/)
+[CSS3 Text Shadow Generator](https://css3gen.com/text-shadow/)
 [CSS Tricks über Filter](https://css-tricks.com/almanac/properties/f/filter/)
 
 ---
@@ -432,8 +457,6 @@ Die Meisten Browser erlauben es verschiedene bildschirmgrößen und Geräte zu s
 
 > - Wählen Sie "Bildschirmgrößen testen" vom Web-Entwickler-Untermenü im Firefox-Menü (oder Extras-Menü, wenn die Menüleiste aktiviert ist oder Sie Mac OS X benutzen) aus
 > - Klicken Sie auf die Schaltfläche "Bildschirmgrößen testen" in der Symbolleiste der  Werkzeugleiste.
-
-
 
 
 ### Additional resources

@@ -44,8 +44,13 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
     
 - Video Tutorial zu CSS Grids von Rachel Andrews: [Link](https://gridbyexample.com/video/)
     
-- HTML mit Inhalten erstellen
+- HTML mit realen Inhalten aus dem "Design in Mainz" Blog erstellen
 
 ## Workshop 3 (20.11.2018)
 
-- -> **[CSS Grids Einführung 2](/thinker-tailor/3-css/css.html)**
+- Schulterblick: Wie Lief das Tutorial?
+- Fragen/Probleme?
+
+
+
+- -> **[CSS: Responsive](/thinker-tailor/css/#css-responsive)**
