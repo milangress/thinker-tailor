@@ -329,20 +329,20 @@ for fullscreen backgrounds you would do:
 
 ## CSS: Basic typography
 
-these are the most important typography-related CSS properties:
+Das sind die wichtigsten Text eigenschaften:
 
-- color
-- font-size
-- font-style
-- font-variant
-- font-weight
-- letter-spacing
-- word-spacing
-- line-height
-- text-align
-- text-decoration
-- text-indent
-- text-transform
+- [color](https://www.google.com/search?q=css+color)
+- [font-size](https://www.google.com/search?q=css+font-size)
+- [font-style](https://www.google.com/search?q=css+font-style)
+- [font-variant](https://www.google.com/search?q=css+font-variant)
+- [font-weight](https://www.google.com/search?q=css+font-weight)
+- [letter-spacing](https://www.google.com/search?q=css+letter-spacing)
+- [word-spacing](https://www.google.com/search?q=css+word-spacing)
+- [line-height](https://www.google.com/search?q=css+line-height)
+- [text-align](https://www.google.com/search?q=css+text-align)
+- [text-decoration](https://www.google.com/search?q=css+text-decoration)
+- [text-indent](https://www.google.com/search?q=css+text-indent)
+- [text-transform](https://www.google.com/search?q=css+text-transform)
 
 <iframe height='570' scrolling='no' title='CSS: Typography' src='//codepen.io/macky/embed/bQoJWG/?height=570&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
