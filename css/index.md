@@ -168,6 +168,22 @@ Das würde in folgendes Grid-Layout resultieren:
 
 grid-template-rows: 120px 25% auto;
 
+## Beispiele
+
+** Tiefe erzeugen mit `z-index` **
+
+<iframe height='414' scrolling='no' title='CSS: Grid depth' src='//codepen.io/macky/embed/jQarad/?height=414&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
+</iframe>
+
+[auf Thimble bearbeiten](https://thimbleprojects.org/gress/572263)
+<br>
+
+** Responsive Grid **
+<iframe height='399' scrolling='no' title='CSS: Grid implicid' src='//codepen.io/macky/embed/zMPBjr/?height=399&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>.
+</iframe>
+
+[auf Thimble bearbeiten](https://thimbleprojects.org/gress/572266)
+
 ## Additional resources
 
 [unter Ressourcen -> Grid](ressourcen/#css-grid)
