@@ -292,6 +292,11 @@ these are the most important typography-related CSS properties:
 <iframe height='1447' scrolling='no' title='CSS: Typography paragraph' src='//codepen.io/macky/embed/WYZBNR/?height=1447&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
+### Additional resources
+
+- [MDN Einführung Typografie](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+
 ---
 
 ## CSS: Effects
@@ -318,7 +323,18 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 <iframe height='300' scrolling='no' title='CSS: Filter' src='//codepen.io/macky/embed/VVrLGv/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
+### Additional resources
+
 [CSS Tricks über Filter](https://css-tricks.com/almanac/properties/f/filter/)
+
+---
+
+## CSS: 3D Transforms
+
+### Additional resources
+
+[Einführung zu CSS 3D transforms](http://desandro.github.io/3dtransforms/)
+
 
 ---
 
