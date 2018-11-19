@@ -1,5 +1,5 @@
 ---
-title: "Thinker"
+title: "CSS Einführung"
 layout: "doc"
 ---
 
@@ -29,17 +29,14 @@ anna {
 
 Aber wir wollen ja keine Menschen stylen sondern HTML tags. Wenn wir also die Hintergrundfarbe unsere Seite verändern wollen schreiben wir:
 
-```
-body {
-  background-color: magenta;
-}
-```
+<iframe height='152' scrolling='no' title='CSS: Syntax' src='//codepen.io/macky/embed/dQZody/?height=152&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
 
-In diesem fall wählen wir alle `<Body>` Elemente aus und setzten die Eigenschaft `background-color` auf „magenta“. Wir können auch mehr Eigenschaften hinzufügen:
+In diesem fall wählen wir alle `<Body>` Elemente aus und setzten die Eigenschaft `background-color` auf „gold“. Wir können auch mehr Eigenschaften hinzufügen:
 
 ```
 body {
-  background-color: magenta;
+  background-color: gold;
   font-family: Helvetica;
 }
 ```
@@ -84,7 +81,7 @@ Hier unten kannst du dir den `HTML` und den `CSS` Code dazu anschauen:
 Wichtig:
 id Selektoren werden nach einem `#` geschrieben während Class Selektoren nach einem Punkt geschrieben werden – `.`
 
-#### .css Datei
+### .css Datei
 
 CSS und HTML zu trennen macht es einfacher zu verstehen. Aber du musst daran denken dem Browser zu sagen wo die CSS Datei liegt.
 Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
@@ -92,7 +89,6 @@ Das machst du zwischen den `<head></head>` tags in deinem HTML Dokument:
 ```
 <link rel="stylesheet" href="style.css" />
 ```
-
 
 ** Jetzt kennst du die Grundlagen zu CSS **
 
