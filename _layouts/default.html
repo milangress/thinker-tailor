@@ -17,7 +17,7 @@
             </a>
           {% endfor %}
         </nav>
-
+    {% include toc.html html=content %}
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
