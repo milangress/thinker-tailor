@@ -101,7 +101,7 @@ Die Tutorials von Mozilla zu den [CSS Basics](https://developer.mozilla.org/en-U
 
 Mit CSS Grids können wir Webseiten direkt mit CSS layouten und Elemente unabhänig von ihrer Reinfolge im HTML so plaziren wie wir möcheten. Das bedeutet wir können flexible Spalten und Reihen (grid rows und grid columns) anlegen und unsere Webseiten-Elemente dann komplett frei in diesem Grid platzieren.
 
-## Grundlagen: Begriffe
+## CSS Grid: Begriffe
 
 Um CSS Grid anzuwenden, benötigst du ein paar neue Begriffe, die ich hier einmal in einer kleinen Übersicht zusammen gefasst habe.
 
@@ -164,10 +164,16 @@ Das würde in folgendes Grid-Layout resultieren:
 
 grid-template-rows: 120px 25% auto;
 
+## Additional resources
+
+[unter Ressourcen -> Grid](ressourcen/#css-grid)
+
 
 # CSS Extended
 
 ## CSS: Units
+
+### Units Types
 
 ```
 * {
@@ -208,7 +214,11 @@ grid-template-rows: 120px 25% auto;
 }
 ```
 
+### Additional resources
+
 [MDN über Values und Units](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Values_and_units)
+
+---
 
 ## CSS: Backgrounds
 
@@ -258,6 +268,8 @@ for fullscreen backgrounds you would do:
 <iframe height='300' scrolling='no' title='CSS: Background' src='//codepen.io/macky/embed/PxJrbQ/?height=300&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 
+---
+
 ## CSS: Basic typography
 
 these are the most important typography-related CSS properties:
@@ -271,14 +283,16 @@ these are the most important typography-related CSS properties:
 - word-spacing
 - line-height
 - text-align
-text-decoration
-text-indent
-text-transform
+- text-decoration
+- text-indent
+- text-transform
 
 <iframe height='570' scrolling='no' title='CSS: Typography' src='//codepen.io/macky/embed/bQoJWG/?height=570&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
 <iframe height='1447' scrolling='no' title='CSS: Typography paragraph' src='//codepen.io/macky/embed/WYZBNR/?height=1447&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
+
+---
 
 ## CSS: Effects
 
@@ -305,6 +319,8 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 </iframe>
 
 [CSS Tricks über Filter](https://css-tricks.com/almanac/properties/f/filter/)
+
+---
 
 ## CSS: Responsive
 
