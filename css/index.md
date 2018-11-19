@@ -422,6 +422,16 @@ Media Queries beginnen mit `@media`, gefolgt von den angaben nachdenen es auswä
 
 [auf Thimble bearbeiten](https://thimbleprojects.org/gress/588890/)
 
+### Tip: "Bildschirmgrößen testen"
+
+Die Meisten Browser erlauben es verschiedene bildschirmgrößen und Geräte zu simulieren: [Bildschirmgröße testen in Firefox](https://developer.mozilla.org/de/docs/Tools/bildschirmgroessen-testen)
+
+> - Wählen Sie "Bildschirmgrößen testen" vom Web-Entwickler-Untermenü im Firefox-Menü (oder Extras-Menü, wenn die Menüleiste aktiviert ist oder Sie Mac OS X benutzen) aus
+> - Klicken Sie auf die Schaltfläche "Bildschirmgrößen testen" in der Symbolleiste der  Werkzeugleiste.
+
+
+
+
 ### Additional resources
 
 [vollständige Liste der Media Features](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
