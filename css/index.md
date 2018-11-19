@@ -340,7 +340,11 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 
 ## CSS: Responsive
 
+
 ### Beispiel
+
+![](img/responsive.gif)
+
 
 <iframe height='425' scrolling='no' title='CSS: Responsive' src='//codepen.io/macky/embed/dQVxQw/?height=425&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
