@@ -344,6 +344,7 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 ### Beispiel
 
 ![](img/responsive.gif)
+![](img/responsive.webm)
 
 
 <iframe height='425' scrolling='no' title='CSS: Responsive' src='//codepen.io/macky/embed/dQVxQw/?height=425&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
