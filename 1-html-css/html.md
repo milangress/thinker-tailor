@@ -118,7 +118,7 @@ Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 # Anhang
 ### Nützliches HTML Grundgerüst
 
-````
+```
 <!doctype html>
 <html lang="de">
   <head>
@@ -136,39 +136,7 @@ Als nächstes Lernen wir über Cascading Stylesheets (CSS):
 ### ein paar HTML Elemente
 
 
-```
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
-<h4>This is heading 4</h4>
-<h5>This is heading 5</h5>
-<h6>This is heading 6</h6>
 
-<p>This is a paragraph</p>
+<iframe height='684' scrolling='no' title='HTML: Examples' src='//codepen.io/macky/embed/YRrgOY/?height=684&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/macky/pen/YRrgOY/'></iframe>
 
-To break<br>lines<br>in a<br>paragraph,<br>use the br element.
-
-<em>This is emphasized text</em>
-
-<strong>This is strong text</strong>
-
-<!--This is a comment. Comments are not displayed in the browser-->
-
-<ol>
-  <li>This is an</li>
-  <li>Ordered</li>
-  <li>List</li>
-</ol>
-
-<ul>
-  <li>This is an</li>
-  <li>Unordered</li>
-  <li>List</li>
-</ul>
-```
-
-<iframe height='684' scrolling='no' title='HTML: Examples' src='//codepen.io/macky/embed/YRrgOY/?height=684&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/macky/pen/YRrgOY/'>
-</iframe>
-
-<iframe height='351' scrolling='no' title='HTML: Example 2' src='//codepen.io/macky/embed/bQoZOZ/?height=351&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/macky/pen/bQoZOZ/'>.
-</iframe>
+<iframe height='318' scrolling='no' title='HTML: Example inline' src='//codepen.io/macky/embed/bQoZOZ/?height=318&theme-id=35174&default-tab=html,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/macky/pen/bQoZOZ/'></iframe>
