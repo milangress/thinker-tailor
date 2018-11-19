@@ -8,8 +8,11 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-        .toc-wrapper > ul {
+        .toc-wrapper ul {
             list-style-type: none;
+            line-height: 2;
+        }
+        .toc-wrapper > ul {
             padding-left: 0; 
         }
         .toc-wrapper > ul > li {
@@ -34,7 +37,7 @@
             </a>
           {% endfor %}
         </nav>
-        <div class="toc-wrapper" style="width: 280px; position: fixed; left: 0; top: 0; bottom: 0; padding: 2rem; overflow-y: auto;">
+        <div class="toc-wrapper" style="width: 280px; position: fixed; left: 0; top: 0; bottom: 0; padding: 2rem; overflow-y: auto; background-color: #f5f5f5">
             {% include toc.html html=content h_min=1 item_class=toc %}
         </div>
       {{ content }}
