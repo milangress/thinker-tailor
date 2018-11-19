@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" style="scroll-behavior: smooth;">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,8 +17,7 @@
             </a>
           {% endfor %}
         </nav>
-        <div class="toc">
-           Toc:
+        <div class="toc" style="width: 280px; position: fixed; right: 0; top: 0;">
             {% include toc.html html=content %}
         </div>
       {{ content }}
