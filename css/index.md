@@ -337,6 +337,26 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 
 
 ---
+## CSS: Flexbox
+
+CSS Flexbox ist ein Mächtiges Werkzeug um Elemente anzuordnen und zu verteilen. Es ist vergleichbar mit dem Ausrichten Fenster in Illustrator und Photoshop:
+
+![](img/ausrichten.png)
+
+Flexbox Macht es besonders einfach Elemente [Horizontal und Vertikal](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/) anzuornen.
+
+### Beispiel
+
+<iframe height='300' scrolling='no' title='CSS: Flexbox power' src='//codepen.io/macky/embed/ZmaQNX/?height=300&theme-id=35174&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+</iframe>
+
+### Additional resources
+
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+
+---
 
 ## CSS: Responsive
 
@@ -344,8 +364,6 @@ using the filter property, you can apply one (or more) photoshop-like filters to
 ### Beispiel
 
 ![](img/responsive.gif)
-![](img/responsive.webm)
-
 
 <iframe height='425' scrolling='no' title='CSS: Responsive' src='//codepen.io/macky/embed/dQVxQw/?height=425&theme-id=35174&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 </iframe>
