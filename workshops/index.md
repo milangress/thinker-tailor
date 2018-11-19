@@ -54,11 +54,18 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 
 - Mobile Ansicht der "Bühne"
 - Warum überhaupt Responsive?
-- -> **[CSS: Responsive](/thinker-tailor/css/#css-responsive)**
+    - -> **[CSS: Responsive](/thinker-tailor/css/#css-responsive)**
 - [https://rachelandrew.co.uk/css/cheatsheets/box-alignment](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+
+
 - CSS Grid & Responsive Layout = Magic
-- -> **[Magic in Thimble anschauen](https://thimbleprojects.org/gress/589014)**
+    - -> **[Magic in Thimble anschauen](https://thimbleprojects.org/gress/589014)**
+- CSS Grid: Named Lines
+    - -> **[CSS Grid: Named Lines in Thimble](https://thimbleprojects.org/gress/589037)**
+    - [Tutorial zu Named Lines](https://gedd.ski/post/naming-css-grid-lines/)
+    - [MDN zu Named Lines](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Layout_using_Named_Grid_Lines)
+
 
 
 - Mit Echten Inhalten wird **Alles** Komplizierter
-- -> **[Thimble Design in Mainz](https://thimbleprojects.org/gress/588992/)**
+    - -> **[Thimble Design in Mainz](https://thimbleprojects.org/gress/588992/)**
