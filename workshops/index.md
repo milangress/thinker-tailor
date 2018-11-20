@@ -56,6 +56,9 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 - Mobile Ansicht der "Bühne"
 - Warum überhaupt Responsive?
     - -> **[CSS: Responsive](/thinker-tailor/css/#css-responsive)**
+- Wer Kontrolliert die Webseite?
+    - Gestalter <-> Redakteur <-> Rezipient
+    - Gestalten von Systemen
 - [https://rachelandrew.co.uk/css/cheatsheets/box-alignment](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
 
 
@@ -70,3 +73,4 @@ CSS Grundlagen vertiefen, entweder mit dem interaktiven Tutorial auf Codecademy 
 
 - Mit Echten Inhalten wird **Alles** Komplizierter
     - -> **[Thimble Design in Mainz](https://thimbleprojects.org/gress/588992/)**
+    - eigenes Raster anhand der Entwürfe definieren
